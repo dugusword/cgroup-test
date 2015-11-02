@@ -1,0 +1,4 @@
+[package]
+name = "cgroup-test"
+version = "0.1.0"
+authors = ["Biye Li <libiye@gmail.com>"]
